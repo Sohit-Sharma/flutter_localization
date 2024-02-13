@@ -1,16 +1,21 @@
 # flutter_localization
 
-A new Flutter project.
+This project contains localization for two basic language (English,Spanish). With this , you are able to change the language for particular screen and whole app.
 
-## Getting Started
+# Preview
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Sohit-Sharma/flutter_localization/assets/35993982/c57ebe2a-5d59-4242-ad88-797b4c34ce7e" alt="Alt text" width="350" height="700">
 
-A few resources to get you started if this is your first Flutter project:
+# Example
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Author
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a class="github-button" href="https://github.com/Sohit-Sharma" aria-label="Follow @Sohit-Sharma on GitHub">Follow GitHub @Sohit-Sharma</a>
+
+<a class="github-button" href="https://www.linkedin.com/in/sohit-sharma-940084172/" aria-label="LinkedIn: Sohit-Sharma">Follow LinkedIn: @Sohit-Sharma</a>
+
+# Contributing
+
+If you find a bug or want to contribute to this project, feel free to open an issue or submit a pull request. Contributions are welcome!
+
+### Happy Coding!
